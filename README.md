@@ -1,0 +1,1 @@
+Tool to allow WHMCS clients to automatically enable SSH for their cPanel account
